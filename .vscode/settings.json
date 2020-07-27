@@ -1,0 +1,13 @@
+{
+    "[json]": {
+        "breadcrumbs.showConstructors": true,
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    }
+
+    "emmet.includeLanguages": {
+        "erb": "html"
+    }
+}
